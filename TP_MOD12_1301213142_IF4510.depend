@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671388901 source:d:\tugas kuliah\semester 3\strukdat\tp\tp_mod12_1301213142_if4510\graph.cpp
+	"graph.h"
+
+1671389366 d:\tugas kuliah\semester 3\strukdat\tp\tp_mod12_1301213142_if4510\graph.h
+	<iostream>
+
+1671389358 source:d:\tugas kuliah\semester 3\strukdat\tp\tp_mod12_1301213142_if4510\main.cpp
+	"graph.h"
+
